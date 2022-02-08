@@ -1,0 +1,125 @@
+/*header*/
+
+.logo{
+    height: 30.57px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 23.82px;
+}
+
+.siaxleebi{
+    color: #EE4036;
+}
+
+.contact{
+    font-size: 22px;
+    color: #3D58A6;
+    list-style: none;
+    margin-left: 30px;
+    margin-bottom: 41px;
+}
+
+.home{
+    font-size: 22px;
+    color: #3D58A6;
+    list-style: none;
+    margin-left: 30px;
+    margin-bottom: 7.24px;
+}
+
+.news{
+    font-size: 22px;
+    list-style: none;
+    margin-left: 30px;
+    margin-bottom: 7.24px;
+}
+
+.contact{
+    font-size: 22px;
+    color: #3D58A6;
+    list-style: none;
+    margin-left: 30px;
+    margin-bottom: 41.48px;
+}
+
+/*header-end*/
+
+
+
+/*section*/
+
+.date-div{
+    width: 56px;
+    height: 56px;
+    background-color: #3D58A6;
+    margin-left: 30px;
+}
+
+.date{
+    color: #FFFFFF;
+    font-size: 48px;
+    padding: 5px 5px;
+}
+
+.month{
+    color: #3D58A6;
+    font-size: 22px;
+    margin-left: 30px;
+    margin-top: 2.65px;
+}
+
+.title{
+    font-size: 20px;
+    margin-top: 18.48px;
+    margin-left: 30px;
+}
+
+.image{
+    height: 210px;
+    margin-top: 16.52px;
+    margin-left: 30px;
+    margin-bottom: 27.46px;
+}
+
+.text{
+    font-size: 16px;
+    margin-left: 30px;
+    margin-bottom: 19.2px;
+}
+
+.text3{
+    font-size: 16px;
+    margin-left: 30px;
+    margin-bottom: 40px;
+}
+
+/*section-end*/
+
+
+
+/*footer*/
+
+.footer{
+    margin-top: 22px;
+    margin-bottom: 29px;
+    margin-left: 38px;
+}
+
+.fblogo{
+    height: 30px;
+}
+
+.line{
+    width: 2px;
+    height: 27px;
+    background-color: #363E97;
+    margin-left: 36px;
+    display: inline-block;
+}
+
+.youtube{
+    height: 30px;
+    margin-left: 30px;
+}
+
+/*footer-end*/
